@@ -1,7 +1,7 @@
 
 def main():
     #escribe tu código abajo de esta línea
-    num = int(input("Enter a number: "))
+    num = int(input("Enter the index: "))
     x=0
     y=1
     z=int()
