@@ -1,8 +1,11 @@
 
 def main():
     #Escribe tu código debajo de esta línea
-    pass
-
-
+        height = int(input("Enter triangle height: "))
+        for i in range(1, height+1):
+            y="*"
+            x=" "
+            s=height-i
+            print(str(s*x)+str(y*i))
 if __name__=='__main__':
     main()
