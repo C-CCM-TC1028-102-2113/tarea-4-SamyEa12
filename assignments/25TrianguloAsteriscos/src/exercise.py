@@ -7,6 +7,5 @@ def main():
             x=" "
             s=height-i
             print(str(s*x)+str(y*i))
-    pass
 if __name__=='__main__':
     main()
