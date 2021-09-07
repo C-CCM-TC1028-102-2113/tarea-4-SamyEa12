@@ -8,6 +8,8 @@ def main():
     a=1
     if num==0:
         print(x)
+    elif num==1
+        print(a)
     while a<num:
         z=y+x
         x=y
